@@ -43,7 +43,7 @@ const Hero = () => {
                 </div>
                 <div
                     className="hero-resume"
-                    onClick={() => window.open('/resume.pdf', '_blank')}
+                    onClick={() => window.open('/Alina_Kiptenko_Resume.pdf', '_blank', 'noopener,noreferrer')}
                     style={{ cursor: 'pointer' }}
                 >
                     My Resume
