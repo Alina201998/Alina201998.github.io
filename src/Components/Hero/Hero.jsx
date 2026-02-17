@@ -15,7 +15,7 @@ const Hero = () => {
         <div id="home" className='hero'>
             <img src={profile_img} alt="Profile" />
             <h1>
-                <span>I'm Alina,</span> frontend developer from USA
+                <span>I'm Alina,</span> a software developer
             </h1>
 
 
