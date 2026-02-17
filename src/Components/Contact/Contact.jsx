@@ -51,10 +51,10 @@ const Contact = () => {
                             <p>alinakip20@gmail.com</p>
                         </div>
 
-                        <div className="contact-detail">
+                        {/* <div className="contact-detail">
                             <img src={call_icon} alt="call icon" />
                             <p>+464-204-5881</p>
-                        </div>
+                        </div> */}
 
                         <div className="contact-detail">
                             <img src={location_icon} alt="location icon" />
